@@ -1,0 +1,21 @@
+@font-face {
+    font-family:"Galien" ;
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Galien-Regular.woff) , url(../fonts/Galien-Regular.woff2);
+}
+@font-face {
+    font-family:"Galien" ;
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+    src: url(../fonts/Gilroy-Light.woff) , url(../fonts/Gilroy-Light.woff2);
+}
+@font-face {
+    font-family:"Galien" ;
+    font-display: swap;
+    font-style: normal;
+    font-weight: 600;
+    src: url(../fonts/Gilroy-ExtraBold.woff) , url(../fonts/Gilroy-ExtraBold.woff2);
+}
